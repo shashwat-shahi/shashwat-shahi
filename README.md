@@ -12,24 +12,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-
-# Hi there 👋, Myself Shashwat Shahi
-### Boston, Massachusetts | shahi.sh@northeastern.edu | [LinkedIn](https://www.linkedin.com/in/shashwat-shahi/)
-
-</p>
+<div align="center">
+<p style="font-size: 36px;margin-bottom: 0;">Hi there 👋, Myself Shashwat Shahi</p>
+<p style="margin-top: 0;"> Boston, Massachusetts | shahi.sh@northeastern.edu | <a href="https://www.linkedin.com/in/shashwat-shahi/">linkedin.com/in/shashwat-shahi/</a> </p>
+</div>
 
 
-## EDUCATION
-**Northeastern University, Boston, MA, USA**  
-Master of Science in Computer Software Engineering  
-May 2025 (Expected)  
-Relevant Coursework: Object Oriented Design, Web Design and UX Engineering, Program Structures and Algorithms, Software Engineering
+<div>
+<p style="font-size: 24px;margin-bottom: 0;">Education</p>
+    <p>
+    <span style="float:left;"><strong>Northeastern University, Boston, MA, USA</strong></span>
+    <span style="float:right;">May 2025 (Expected)</span>
+    </p>
+    <p style="float:left;">Master of Science in Computer Software Engineering</p>
+    <p>Relevant Coursework: Object Oriented Design, Web Design and UX Engineering, Program Structures and Algorithms, Software Engineering</p>
+</div>
 
-**Visvesvaraya Technological University, Bengaluru, India**  
-Bachelor of Engineering in Computer Science and Engineering  
-Aug 2021  
-Relevant Coursework: Data Structures and Applications, Design and Analysis of Algorithms, Unix and Shell Programming, Software Engineering, Database Management Systems, Operating Systems, Machine Learning
+<div>
+    <p><strong>Visvesvaraya Technological University, Bengaluru, India</strong></p>
+    <p>
+    achelor of Engineering in Computer Science and Engineering</span> 
+    <span style="float:right;">Aug 2021</span>
+    </p>
+    <p>Relevant Coursework: Data Structures and Applications, Design and Analysis of Algorithms, Unix and Shell Programming, Software Engineering, Database Management Systems, Operating Systems, Machine Learning</p>
+</div>
 
 ## SKILLS
 **Languages and Frameworks:** Python, C++, Pytorch, TensorFlow, Keras, OpenCV, NLTK, Spacy, SQL, Cypher Query Language (CQL)  
