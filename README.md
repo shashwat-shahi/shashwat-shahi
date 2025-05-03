@@ -16,7 +16,11 @@
 
 ## <img align="center" alt="About" width="35px" src="https://img.shields.io/badge/🚀-About_Me-9cf"/> _About Me_
 
-Machine Learning Engineer with proven expertise in AI and Computer Vision, backed by 4 patents across multimodal learning and graph neural networks. Currently leading the development of novel vision models at Novartis AG that combine masked image modeling techniques with attention mechanisms for medical image analysis. Passionate about exploring the frontiers of generative AI, large language models, and distributed deep learning systems.
+- 🧠 ML Engineer with 4 patents in multimodal learning & graph neural networks
+- 🔬 Developing novel vision models at Novartis for medical imaging analysis
+- 🎓 MS in Computer Software Engineering from Northeastern University
+- 💡 Expert in generative AI, LLMs, computer vision, and distributed systems
+- 🏆 OpenCV-certified in Computer Vision technologies
 
 <details>
 <summary><b>🎓 Education</b></summary>
@@ -36,7 +40,7 @@ Master of Science in Computer Software Engineering | April 2025
 
 **Machine Learning Researcher** | Jan 2025 – Present
 
-At Novartis, I'm pioneering advanced computer vision solutions for medical image analysis, specializing in whole slide imaging (WSI) for cancer research. I've engineered a novel large vision model incorporating masked-image-modeling with masked language modeling techniques, enabling feature extraction that powers downstream tasks including gene expression prediction, life expectancy forecasting, and cancer cell detection. My work includes training complex regression and classification models using distributed data processing frameworks capable of handling models with up to 1.5 billion parameters. By implementing multi-resolution analysis through specialized attention mechanisms and leveraging contrastive learning approaches with architectures like DINO v2 and Vision Transformers, I've optimized these models for feature extraction while maintaining computational efficiency in resource-constrained environments.
+Pioneering novel large vision models at Novartis for medical image analysis using masked-image-modeling techniques. Built systems for gene expression prediction and cancer cell detection with 1.5B parameter models. Implemented multi-resolution analysis through specialized attention mechanisms and optimized training in resource-constrained environments using multi-GPU distributed processing.
 
 </details>
 
@@ -46,7 +50,7 @@ At Novartis, I'm pioneering advanced computer vision solutions for medical image
 
 **Research and Course Assistant - Generative AI and LLMs** | Aug 2024 – Dec 2024
 
-As a research assistant under Prof. Ramin Mohammadi, I explored cutting-edge applications of generative AI, focusing on large language models, retrieval-augmented generation systems, and advanced prompting techniques. I developed comprehensive Python-based labs and assignments using TensorFlow and PyTorch for a Generative AI course offered in partnership with Coursera. My responsibilities included creating educational content on deep learning architectures ranging from foundational CNNs and RNNs to advanced transformer models, reinforcement learning systems, and LLM frameworks including Langchain and LangGraph. This role strengthened my expertise in both the theoretical foundations and practical implementations of modern AI systems.
+Researched cutting-edge applications of Generative AI, LLMs and RAG systems with Prof. Ramin Mohammadi. Designed Python labs and assignments using TensorFlow and PyTorch for Coursera partnership. Created educational content on deep learning architectures including CNNs, Transformers, GANs, and LLM frameworks (Langchain, LangGraph).
 
 </details>
 
@@ -56,7 +60,7 @@ As a research assistant under Prof. Ramin Mohammadi, I explored cutting-edge app
 
 **Machine Learning Engineer (Research)** | Aug 2021 – Aug 2023
 
-At TCS, I spearheaded innovative AI projects that generated both commercial value and intellectual property contributions. I invented the Domain Knowledge Infused Adaptive Neuro Fuzzy Inference System (DKI-ANFIS), a novel architecture that achieved state-of-the-art 82.4% accuracy in welding joint quality assessment from images, generating approximately $100K in revenue. I architected an end-to-end system that automates the prediction of ICD-10 disease diagnostic codes from patient medical records using NLP techniques and Neo4J's Knowledge Graph with 90% accuracy. My work optimizing multi-GPU ML pipelines for real-time surveillance applications resulted in 1.5x performance improvements through low-precision INT8 quantization and pruning techniques. I designed and deployed microservices in Java (Spring Boot) across AWS (EC2) and improved microservice communication using Apache Kafka and Redis, resulting in a 25% performance increase. My research contributions led to four patent filings across multiple geographies, demonstrating my ability to translate theoretical AI concepts into practical, high-value applications.
+Invented DKI-ANFIS architecture for welding quality assessment (82.4% accuracy, ~$100K revenue). Built end-to-end system for ICD-10 disease code prediction (90% accuracy) using NLP and Neo4J. Optimized multi-GPU ML pipelines with 1.5x performance gain through quantization and pruning. Deployed microservices with Spring Boot and Kafka, improving system efficiency by 25%. Filed four patents across multiple geographies.
 
 </details>
 
@@ -99,114 +103,87 @@ At TCS, I spearheaded innovative AI projects that generated both commercial valu
 
 <details>
 <summary><b>🧠 AI Technologies & Domains</b></summary>
-<br>
 
-- **Deep Learning Architectures**: Transformers, CNNs, RNNs, LSTMs, GRUs, GANs, VAEs, Diffusion Models
-- **Vision Systems**: Object Detection, Segmentation, Classification, Feature Extraction, Masked Image Modeling
-- **NLP**: Text Classification, NER, Sentiment Analysis, Language Modeling, Text Generation
-- **Generative AI**: Text-to-Image, LLM Fine-tuning, Stable Diffusion, CLIP, RAG Systems
-- **Domain Expertise**: Healthcare AI, Medical Imaging, Legal AI, Financial Modeling
-- **Advanced Techniques**: Transfer Learning, PEFT, LoRA, Q-LoRA, Distributed Training, Multimodal Learning, Knowledge Graphs
+<div>
+  <table>
+    <tr>
+      <td><b>🔥 Deep Learning</b></td>
+      <td>Transformers, CNNs, RNNs, LSTMs, GRUs, GANs, VAEs, Diffusion Models</td>
+    </tr>
+    <tr>
+      <td><b>👁️ Vision Systems</b></td>
+      <td>Object Detection, Segmentation, Classification, Feature Extraction, Masked Image Modeling</td>
+    </tr>
+    <tr>
+      <td><b>📝 NLP</b></td>
+      <td>Text Classification, NER, Sentiment Analysis, Language Modeling, Text Generation</td>
+    </tr>
+    <tr>
+      <td><b>🎨 Generative AI</b></td>
+      <td>Text-to-Image, LLM Fine-tuning, Stable Diffusion, CLIP, RAG Systems</td>
+    </tr>
+    <tr>
+      <td><b>🏥 Domain Expertise</b></td>
+      <td>Healthcare AI, Medical Imaging, Legal AI, Financial Modeling</td>
+    </tr>
+    <tr>
+      <td><b>⚙️ Advanced Techniques</b></td>
+      <td>Transfer Learning, PEFT, LoRA, Q-LoRA, Distributed Training, Multimodal Learning</td>
+    </tr>
+  </table>
+</div>
 
 </details>
 
 ## <img align="center" alt="Projects" width="35px" src="https://img.shields.io/badge/📂-Projects-brightgreen"/> _Featured Projects_
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Text-to-Image Generation</h3>
-        <div align="center">
-          <a href="https://github.com/shashwat-shahi/Text-to-Image-Generation-with-Stable-Diffusion" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub-View%20Repository-blue?style=for-the-badge&logo=GitHub" alt="GitHub Repo"/>
-          </a>
-          <p>
-          Fine-tuned CLIP text encoder on Flickr8k while freezing VAE and U-Net components from Stable Diffusion v1.5
-          </p>
-          <p><strong>Tech:</strong> PyTorch, Diffusers, Transformers, Stable Diffusion, CLIP</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">RAG Chatbot with Pinecone</h3>
-        <div align="center">
-          <a href="https://github.com/shashwat-shahi/RAG-Chatbot-with-Pinecone" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub-View%20Repository-blue?style=for-the-badge&logo=GitHub" alt="GitHub Repo"/>
-          </a>
-          <p>
-          RAG chatbot using Pinecone as vector database and GROQ for accessing language models
-          </p>
-          <p><strong>Tech:</strong> Python, GROQ, Pinecone, RAG, Vector Embeddings, LLMs</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Text-to-SQL Generator</h3>
-        <div align="center">
-          <a href="https://github.com/shashwat-shahi/Text-to-SQL-Generation-using-Fine-Tuned-LLMs" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub-View%20Repository-blue?style=for-the-badge&logo=GitHub" alt="GitHub Repo"/>
-          </a>
-          <p>
-          Parameter-efficient fine-tuning of LLMs for text-to-SQL translation with 16x improvement
-          </p>
-          <p><strong>Tech:</strong> PyTorch, PEFT, LoRA, QLoRA, Gradio, Hugging Face</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">CareerCraft AI</h3>
-        <div align="center">
-          <a href="https://github.com/shashwat-shahi/CareerCraftAI" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub-View%20Repository-blue?style=for-the-badge&logo=GitHub" alt="GitHub Repo"/>
-          </a>
-          <p>
-          AI skill gap analysis and recommendation system with 85% accuracy using GraphNN
-          </p>
-          <p><strong>Tech:</strong> Python, Neo4J, Langchain, LLM, RAG, Graph Neural Network</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Legal Precedent Query System</h3>
-        <div align="center">
-          <a href="https://github.com/shashwat-shahi/Legal-Precedent-Query-System-with-RAG-vs-Non-RAG-Comparison" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub-View%20Repository-blue?style=for-the-badge&logo=GitHub" alt="GitHub Repo"/>
-          </a>
-          <p>
-          Comparison of RAG vs non-RAG approaches for legal question answering
-          </p>
-          <p><strong>Tech:</strong> Python, Langchain, Vector Embeddings, RAG, LLMs</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Image Captioning with Deep Learning</h3>
-        <div align="center">
-          <a href="https://github.com/shashwat-shahi/Image-Captioning-using-GRU-LSTM" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub-View%20Repository-blue?style=for-the-badge&logo=GitHub" alt="GitHub Repo"/>
-          </a>
-          <p>
-          Dual-architecture image captioning with CNN encoders and GRU/LSTM decoders
-          </p>
-          <p><strong>Tech:</strong> TensorFlow, CNN, GRU, LSTM, NLTK, Beam Search</p>
-        </div>
-      </td>
-    </tr>
-  </table>
+<div class="project-grid" align="center">
+  <!-- Row 1 -->
+  <a href="https://github.com/shashwat-shahi/Text-to-Image-Generation-with-Stable-Diffusion">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=shashwat-shahi&repo=Text-to-Image-Generation-with-Stable-Diffusion&theme=radical" />
+  </a>
+  <a href="https://github.com/shashwat-shahi/RAG-Chatbot-with-Pinecone">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=shashwat-shahi&repo=RAG-Chatbot-with-Pinecone&theme=radical" />
+  </a>
+  
+  <!-- Row 2 -->
+  <a href="https://github.com/shashwat-shahi/Text-to-SQL-Generation-using-Fine-Tuned-LLMs">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=shashwat-shahi&repo=Text-to-SQL-Generation-using-Fine-Tuned-LLMs&theme=radical" />
+  </a>
+  <a href="https://github.com/shashwat-shahi/CareerCraftAI">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=shashwat-shahi&repo=CareerCraftAI&theme=radical" />
+  </a>
+  
+  <!-- Row 3 -->
+  <a href="https://github.com/shashwat-shahi/Legal-Precedent-Query-System-with-RAG-vs-Non-RAG-Comparison">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=shashwat-shahi&repo=Legal-Precedent-Query-System-with-RAG-vs-Non-RAG-Comparison&theme=radical" />
+  </a>
+  <a href="https://github.com/shashwat-shahi/Image-Captioning-using-GRU-LSTM">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=shashwat-shahi&repo=Image-Captioning-using-GRU-LSTM&theme=radical" />
+  </a>
 </div>
+
+
 
 ## <img align="center" alt="Stats" width="35px" src="https://img.shields.io/badge/📊-Github_Stats-blueviolet"/> _GitHub Statistics_
 
 <div align="center">
   <a href="#">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shashwat-shahi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat-shahi&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shashwat-shahi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shashwat-shahi&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
 
 <div align="center">
   <a href="#">
     <img src="https://github-profile-trophy.vercel.app/?username=shashwat-shahi&theme=radical&row=1&column=7" alt="trophy"/>
+  </a>
+</div>
+
+<!-- Dynamic activity graph -->
+<div align="center">
+  <a href="#">
+    <img alt="Shashwat's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shashwat-shahi&theme=redical&hide_border=true" />
   </a>
 </div>
 
