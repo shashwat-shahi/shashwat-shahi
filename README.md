@@ -196,6 +196,9 @@ Invented DKI-ANFIS architecture for welding quality assessment (82.4% accuracy, 
   <a href="mailto:shahi.sh1028@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
+  <a href="https://scholar.google.com/citations?user=FO0IGT8AAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" target="_blank">
+  </a>
   <a href="https://linkedin.com/in/shashwat-shahi/">
     <img src="https://img.shields.io/badge/Boston,_MA-4A154B?style=for-the-badge&logo=googlemaps&logoColor=white" target="_blank">
   </a>
